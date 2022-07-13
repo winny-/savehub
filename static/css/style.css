@@ -1,0 +1,7 @@
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  padding: .2rem 0;
+  font-size: 1.3rem;
+}
